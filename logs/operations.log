@@ -1,0 +1,666 @@
+2018-04-27 11:09:44 - info: Successfully Connected to the Database
+2018-04-27 11:09:47 - info: Students Details Sent
+[2018-04-27T23:09:47+05:30] "GET /api/student/" 200 464 - 313.506 ms
+2018-04-27T23:13:54+05:30 - info: Successfully Connected to the Database
+2018-04-28T12:27:42+05:30 - info: Successfully Connected to the Database
+2018-04-28T12:27:52+05:30 - error: user has not registered for the company placement program
+2018-04-28T12:27:52+05:30 "DELETE /api/student/5ae177c0823efe34a829c2d1/unregister?companyId=5ae35943af380c0c88b58761" 406 56 - 746.533 ms
+2018-04-28T12:30:36+05:30 - error: Registered Student trying to Register Again
+2018-04-28T12:30:36+05:30 "POST /api/student/5ae35943af380c0c88b58761/register?companyId=5ae177c0823efe34a829c2d1" 409 27 - 775.595 ms
+2018-04-28T12:30:49+05:30 - error: user has not registered for the company placement program
+2018-04-28T12:30:49+05:30 "DELETE /api/student/5ae177c0823efe34a829c2d1/unregister?companyId=5ae177c0823efe34a829c2d1" 406 56 - 768.985 ms
+2018-04-28T12:31:05+05:30 - error: user has not registered for the company placement program
+2018-04-28T12:31:05+05:30 "DELETE /api/student/5ae35943af380c0c88b58761/unregister?companyId=5ae177c0823efe34a829c2d1" 406 56 - 695.915 ms
+2018-04-28T12:32:33+05:30 - info: Student Successfully Unregistered for Company
+2018-04-28T12:32:33+05:30 "DELETE /api/student/5ae177c0823efe34a829c2d1/unregister?companyId=5ae17828823efe34a829c2d2" 200 41 - 700.676 ms
+2018-04-28T12:32:52+05:30 - error: user has not registered for the company placement program
+2018-04-28T12:32:52+05:30 "DELETE /api/student/5ae177c0823efe34a829c2d1/unregister?companyId=5ae17828823efe34a829c2d2" 406 56 - 785.429 ms
+2018-04-28T12:38:59+05:30 - error: User pass Invalid Data
+2018-04-28T12:38:59+05:30 "POST /api/student/new" 406 27 - 218.526 ms
+2018-04-28T12:39:50+05:30 - info: Successfully Connected to the Database
+2018-04-28T12:40:18+05:30 - info: New Student Registered
+2018-04-28T12:40:18+05:30 "POST /api/student/new" 200 23 - 408.322 ms
+2018-04-28T12:43:11+05:30 - info: New Student Registered
+2018-04-28T12:43:11+05:30 "POST /api/student/new" 200 23 - 355.867 ms
+2018-04-28T12:43:50+05:30 - info: user's cgpa was less than cutoff of the company
+2018-04-28T12:43:50+05:30 "POST /api/student/5ae41f074d23b50b20f05c0d/register?companyId=5ae17828823efe34a829c2d2" 406 42 - 1216.007 ms
+2018-04-28T12:45:07+05:30 - info: user's cgpa was less than cutoff of the company
+2018-04-28T12:45:07+05:30 "POST /api/student/5ae41e5a4d23b50b20f05c0c/register?companyId=5ae177c0823efe34a829c2d1" 406 42 - 1109.801 ms
+2018-04-28T12:46:36+05:30 - info: user's cgpa was less than cutoff of the company
+2018-04-28T12:46:36+05:30 "POST /api/student/5ae41e5a4d23b50b20f05c0c/register?companyId=5ae177c0823efe34a829c2d1" 406 42 - 1171.705 ms
+2018-04-28T12:47:09+05:30 - info: Student Successfully Registered for Company
+2018-04-28T12:47:09+05:30 "POST /api/student/5ae41e5a4d23b50b20f05c0c/register?companyId=5ae17828823efe34a829c2d2" 200 38 - 909.293 ms
+2018-04-28T20:25:33+05:30 - info: Successfully Connected to the Database
+2018-04-28T20:27:02+05:30 - info: Successfully Connected to the Database
+2018-04-28T20:27:40+05:30 - info: Successfully Connected to the Database
+2018-04-28T20:27:59+05:30 - info: Successfully Connected to the Database
+2018-04-28T20:28:03+05:30 - info: New Student Registered
+2018-04-28T20:28:03+05:30 "POST /api/student/new" 200 23 - 837.578 ms
+2018-04-28T20:28:35+05:30 - info: user's cgpa was less than cutoff of the company
+2018-04-28T20:28:35+05:30 "POST /api/student/5ae48bfae9e16723bcc01352/register?companyId=5ae177c0823efe34a829c2d1" 406 42 - 1120.308 ms
+2018-04-28T20:35:18+05:30 - info: Successfully Connected to the Database
+2018-04-28T20:35:25+05:30 - info: user's cgpa was less than cutoff of the company
+2018-04-28T20:35:25+05:30 "POST /api/student/5ae48bfae9e16723bcc01352/register?companyId=5ae177c0823efe34a829c2d1" 406 42 - 1155.865 ms
+2018-04-29T21:11:25+05:30 - info: Successfully Connected to the Database
+2018-04-29T21:11:32+05:30 - info: Details Successfully Edited
+2018-04-29T21:11:32+05:30 "PUT /api/student/edit/5ae48bfae9e16723bcc01352" 200 233 - 408.546 ms
+2018-06-17T00:32:31+05:30 - info: Successfully Connected to the Database
+2018-06-17T00:37:22+05:30 "GET /routes/api/student" 404 157 - 5.569 ms
+2018-06-17T00:40:46+05:30 - info: Successfully Connected to the Database
+2018-06-17T00:41:06+05:30 "GET /routes/api/student" 404 157 - 5.177 ms
+2018-06-17T00:41:39+05:30 "GET /routes/api/student" 404 157 - 0.732 ms
+2018-06-17T00:42:08+05:30 - info: Students Details Sent
+2018-06-17T00:42:08+05:30 "GET /api/student" 200 916 - 327.090 ms
+2018-06-17T00:42:55+05:30 - info: Students Details Sent
+2018-06-17T00:42:55+05:30 "GET /api/student" 304 - - 313.689 ms
+2018-06-17T00:45:16+05:30 - info: Successfully Connected to the Database
+2018-06-17T00:45:25+05:30 - info: Students Details Sent
+2018-06-17T00:45:25+05:30 "GET /api/students" 200 916 - 319.014 ms
+2018-06-17T00:46:24+05:30 - info: Successfully Connected to the Database
+2018-06-17T00:46:40+05:30 - info: Students Details Sent
+2018-06-17T00:46:40+05:30 "GET /api/students" 304 - - 367.256 ms
+2018-06-17T00:46:47+05:30 - info: Students Details Sent
+2018-06-17T00:46:47+05:30 "GET /api/students" 304 - - 330.662 ms
+2018-06-17T00:46:51+05:30 - info: Companies Details Sent
+2018-06-17T00:46:51+05:30 "GET /api/companies" 200 675 - 331.232 ms
+2018-06-19T21:33:42+05:30 - info: Successfully Connected to the Database
+2018-06-19T21:38:15+05:30 - info: Students Details Sent
+2018-06-19T21:38:15+05:30 "GET /api/students" 304 - - 324.493 ms
+2018-06-19T21:38:42+05:30 - info: Students Details Sent
+2018-06-19T21:38:42+05:30 "GET /api/students" 304 - - 315.908 ms
+2018-06-19T21:39:04+05:30 - info: Students Details Sent
+2018-06-19T21:39:04+05:30 "GET /api/students" 304 - - 299.461 ms
+2018-06-19T21:40:26+05:30 - info: Students Details Sent
+2018-06-19T21:40:26+05:30 "GET /api/students" 304 - - 354.036 ms
+2018-06-19T21:41:15+05:30 - info: Students Details Sent
+2018-06-19T21:41:15+05:30 "GET /api/students" 304 - - 302.616 ms
+2018-06-19T21:41:30+05:30 - info: Students Details Sent
+2018-06-19T21:41:30+05:30 "GET /api/students" 304 - - 307.352 ms
+2018-06-19T21:42:04+05:30 - info: Students Details Sent
+2018-06-19T21:42:04+05:30 "GET /api/students" 304 - - 300.853 ms
+2018-06-19T21:42:18+05:30 - info: Students Details Sent
+2018-06-19T21:42:18+05:30 "GET /api/students" 304 - - 305.911 ms
+2018-06-19T21:43:11+05:30 - info: Students Details Sent
+2018-06-19T21:43:11+05:30 "GET /api/students" 304 - - 587.434 ms
+2018-06-19T21:43:39+05:30 - info: Students Details Sent
+2018-06-19T21:43:39+05:30 "GET /api/students" 304 - - 307.459 ms
+2018-06-20T01:04:46+05:30 - info: Companies Details Sent
+2018-06-20T01:04:46+05:30 "GET /api/companies" 200 675 - 320.268 ms
+2018-06-20T01:05:56+05:30 - info: Companies Details Sent
+2018-06-20T01:05:56+05:30 "GET /api/companies" 304 - - 314.169 ms
+2018-06-20T01:06:16+05:30 - info: Companies Details Sent
+2018-06-20T01:06:16+05:30 "GET /api/companies" 304 - - 313.596 ms
+2018-06-20T01:06:39+05:30 - info: Companies Details Sent
+2018-06-20T01:06:39+05:30 "GET /api/companies" 304 - - 323.842 ms
+2018-06-20T01:06:41+05:30 - info: Companies Details Sent
+2018-06-20T01:06:41+05:30 "GET /api/companies" 304 - - 314.615 ms
+2018-06-20T01:09:19+05:30 - info: Companies Details Sent
+2018-06-20T01:09:19+05:30 "GET /api/companies" 304 - - 306.803 ms
+2018-06-20T01:09:23+05:30 - info: Companies Details Sent
+2018-06-20T01:09:23+05:30 "GET /api/companies" 304 - - 314.197 ms
+2018-06-20T01:10:37+05:30 - info: Companies Details Sent
+2018-06-20T01:10:37+05:30 "GET /api/companies" 304 - - 314.395 ms
+2018-06-20T01:26:13+05:30 - info: Students Details Sent
+2018-06-20T01:26:13+05:30 "GET /api/students" 304 - - 314.779 ms
+2018-06-20T01:27:30+05:30 - info: Students Details Sent
+2018-06-20T01:27:30+05:30 "GET /api/students" 304 - - 344.598 ms
+2018-06-20T01:27:41+05:30 - info: Students Details Sent
+2018-06-20T01:27:41+05:30 "GET /api/students" 304 - - 316.762 ms
+2018-06-20T01:27:44+05:30 - info: Students Details Sent
+2018-06-20T01:27:44+05:30 "GET /api/students" 304 - - 319.373 ms
+2018-06-20T01:27:53+05:30 - info: Students Details Sent
+2018-06-20T01:27:53+05:30 "GET /api/students" 304 - - 316.684 ms
+2018-06-20T01:30:43+05:30 - info: Students Details Sent
+2018-06-20T01:30:43+05:30 "GET /api/students" 304 - - 314.741 ms
+2018-06-20T01:31:40+05:30 - info: Students Details Sent
+2018-06-20T01:31:40+05:30 "GET /api/students" 304 - - 318.983 ms
+2018-06-20T01:32:28+05:30 - info: Students Details Sent
+2018-06-20T01:32:28+05:30 "GET /api/students" 304 - - 346.040 ms
+2018-06-20T01:33:03+05:30 - info: Students Details Sent
+2018-06-20T01:33:03+05:30 "GET /api/students" 304 - - 317.447 ms
+2018-06-20T01:33:52+05:30 - info: Students Details Sent
+2018-06-20T01:33:52+05:30 "GET /api/students" 304 - - 346.791 ms
+2018-06-20T01:34:38+05:30 - info: Students Details Sent
+2018-06-20T01:34:38+05:30 "GET /api/students" 304 - - 315.132 ms
+2018-06-20T01:35:02+05:30 - info: Students Details Sent
+2018-06-20T01:35:02+05:30 "GET /api/students" 304 - - 361.735 ms
+2018-06-20T01:35:25+05:30 - info: Students Details Sent
+2018-06-20T01:35:25+05:30 "GET /api/students" 304 - - 314.655 ms
+2018-06-20T01:35:30+05:30 - info: Students Details Sent
+2018-06-20T01:35:30+05:30 "GET /api/students" 304 - - 345.691 ms
+2018-06-20T01:35:36+05:30 - info: Students Details Sent
+2018-06-20T01:35:36+05:30 "GET /api/students" 304 - - 318.008 ms
+2018-06-20T01:35:43+05:30 - info: Students Details Sent
+2018-06-20T01:35:43+05:30 "GET /api/students" 304 - - 344.541 ms
+2018-06-20T01:35:59+05:30 - info: Students Details Sent
+2018-06-20T01:35:59+05:30 "GET /api/students" 304 - - 329.832 ms
+2018-06-20T01:36:18+05:30 - info: Students Details Sent
+2018-06-20T01:36:18+05:30 "GET /api/students" 304 - - 347.857 ms
+2018-06-20T01:36:39+05:30 - info: Students Details Sent
+2018-06-20T01:36:39+05:30 "GET /api/students" 304 - - 313.489 ms
+2018-06-20T01:37:36+05:30 - info: Companies Details Sent
+2018-06-20T01:37:36+05:30 "GET /api/companies" 304 - - 348.558 ms
+2018-06-20T01:37:46+05:30 - info: Companies Details Sent
+2018-06-20T01:37:46+05:30 "GET /api/companies" 304 - - 310.097 ms
+2018-06-20T01:38:41+05:30 - info: Companies Details Sent
+2018-06-20T01:38:41+05:30 "GET /api/companies" 304 - - 376.995 ms
+2018-06-20T01:38:53+05:30 - info: Companies Details Sent
+2018-06-20T01:38:53+05:30 "GET /api/companies" 304 - - 316.960 ms
+2018-06-20T01:41:35+05:30 - info: Companies Details Sent
+2018-06-20T01:41:35+05:30 "GET /api/companies" 304 - - 352.461 ms
+2018-06-20T01:41:48+05:30 - info: Companies Details Sent
+2018-06-20T01:41:48+05:30 "GET /api/companies" 304 - - 315.314 ms
+2018-06-20T01:42:12+05:30 - info: Companies Details Sent
+2018-06-20T01:42:12+05:30 "GET /api/companies" 304 - - 357.995 ms
+2018-06-20T01:42:15+05:30 - info: Companies Details Sent
+2018-06-20T01:42:15+05:30 "GET /api/companies" 304 - - 309.606 ms
+2018-06-20T01:42:17+05:30 - info: Companies Details Sent
+2018-06-20T01:42:17+05:30 "GET /api/companies" 304 - - 350.834 ms
+2018-06-23T13:42:46+05:30 - info: Successfully Connected to the Database
+2018-06-23T13:43:12+05:30 - info: Students Details Sent
+2018-06-23T13:43:12+05:30 "GET /api/students" 304 - - 291.541 ms
+2018-06-23T13:44:32+05:30 - info: Students Details Sent
+2018-06-23T13:44:32+05:30 "GET /api/students" 304 - - 276.977 ms
+2018-06-23T13:45:10+05:30 - info: Students Details Sent
+2018-06-23T13:45:10+05:30 "GET /api/students" 304 - - 261.042 ms
+2018-06-23T13:45:18+05:30 - info: Students Details Sent
+2018-06-23T13:45:18+05:30 "GET /api/students" 304 - - 493.541 ms
+2018-06-23T13:45:26+05:30 - info: Students Details Sent
+2018-06-23T13:45:26+05:30 "GET /api/students" 304 - - 310.209 ms
+2018-06-23T13:45:57+05:30 - info: Students Details Sent
+2018-06-23T13:45:57+05:30 "GET /api/students" 304 - - 266.061 ms
+2018-06-23T13:46:21+05:30 - info: Students Details Sent
+2018-06-23T13:46:21+05:30 "GET /api/students" 304 - - 284.908 ms
+2018-06-23T13:46:32+05:30 - info: Students Details Sent
+2018-06-23T13:46:32+05:30 "GET /api/students" 304 - - 278.960 ms
+2018-06-23T13:47:31+05:30 - error: Enrollment No and FirstName is required
+2018-06-23T13:47:31+05:30 "POST /api/student/new" 406 39 - 9.085 ms
+2018-06-23T13:49:09+05:30 - info: Students Details Sent
+2018-06-23T13:49:09+05:30 "GET /api/students" 304 - - 599.521 ms
+2018-06-23T13:50:15+05:30 "OPTIONS /api/student/new" 200 4 - 1.465 ms
+2018-06-23T13:50:17+05:30 - info: New Student Registered
+2018-06-23T13:50:17+05:30 "POST /api/student/new" 200 23 - 1896.452 ms
+2018-06-23T13:56:24+05:30 - info: Successfully Connected to the Database
+2018-06-23T13:56:26+05:30 "OPTIONS /api/student/new" 200 4 - 5.413 ms
+2018-06-23T13:56:29+05:30 - error: Student Already Registered to the portal
+2018-06-23T13:56:29+05:30 "POST /api/student/new" 406 40 - 3119.811 ms
+2018-06-23T14:01:41+05:30 - info: Students Details Sent
+2018-06-23T14:01:41+05:30 "GET /api/students" 200 1145 - 278.855 ms
+2018-06-23T14:03:29+05:30 - info: Students Details Sent
+2018-06-23T14:03:29+05:30 "GET /api/students" 304 - - 331.492 ms
+2018-06-23T14:05:03+05:30 - info: Students Details Sent
+2018-06-23T14:05:03+05:30 "GET /api/students" 304 - - 306.478 ms
+2018-06-23T14:05:25+05:30 - info: Students Details Sent
+2018-06-23T14:05:25+05:30 "GET /api/students" 304 - - 313.027 ms
+2018-06-23T14:05:38+05:30 "GET /api/students" - - - - ms
+2018-06-23T14:05:38+05:30 - info: Students Details Sent
+2018-06-23T14:05:40+05:30 - info: Students Details Sent
+2018-06-23T14:05:40+05:30 "GET /api/students" 200 1145 - 280.109 ms
+2018-06-23T14:05:54+05:30 - info: Students Details Sent
+2018-06-23T14:05:54+05:30 "GET /api/students" 304 - - 329.048 ms
+2018-06-23T14:06:02+05:30 - info: Students Details Sent
+2018-06-23T14:06:02+05:30 "GET /api/students" 304 - - 490.975 ms
+2018-06-23T14:06:44+05:30 "OPTIONS /api/student/new" 200 4 - 1.316 ms
+2018-06-23T14:06:45+05:30 - info: New Student Registered
+2018-06-23T14:06:45+05:30 "POST /api/student/new" 200 23 - 811.741 ms
+2018-06-23T14:07:06+05:30 - info: Students Details Sent
+2018-06-23T14:07:06+05:30 "GET /api/students" 200 1363 - 268.380 ms
+2018-06-23T14:08:03+05:30 - info: Students Details Sent
+2018-06-23T14:08:03+05:30 "GET /api/students" 304 - - 318.078 ms
+2018-06-24T13:06:33+05:30 - info: Successfully Connected to the Database
+2018-06-24T13:10:10+05:30 - info: Students Details Sent
+2018-06-24T13:10:10+05:30 "GET /api/students" 304 - - 331.329 ms
+2018-06-24T13:11:18+05:30 "OPTIONS /api/student/new" 200 4 - 5.458 ms
+2018-06-24T13:11:21+05:30 - info: New Student Registered
+2018-06-24T13:11:21+05:30 "POST /api/student/new" 200 23 - 2797.017 ms
+2018-06-24T13:12:07+05:30 - info: Students Details Sent
+2018-06-24T13:12:07+05:30 "GET /api/students" 200 1581 - 311.948 ms
+2018-06-24T13:12:14+05:30 - info: Students Details Sent
+2018-06-24T13:12:14+05:30 "GET /api/students" 304 - - 303.444 ms
+2018-06-24T14:12:52+05:30 - info: Successfully Connected to the Database
+2018-06-24T14:19:13+05:30 - info: Students Details Sent
+2018-06-24T14:19:13+05:30 "GET /api/students" 200 1363 - 339.177 ms
+2018-06-24T14:20:06+05:30 "OPTIONS /api/student/new" 200 4 - 2.842 ms
+2018-06-24T14:20:08+05:30 - info: New Student Registered
+2018-06-24T14:20:08+05:30 "POST /api/student/new" 200 23 - 2034.766 ms
+2018-06-24T14:50:54+05:30 - info: Successfully Connected to the Database
+2018-06-24T14:51:59+05:30 "OPTIONS /api/student/new" 200 4 - 8.548 ms
+2018-06-24T14:52:00+05:30 - info: New Student Registered
+2018-06-24T14:52:00+05:30 "POST /api/student/new" 200 37 - 767.046 ms
+2018-06-24T14:54:16+05:30 - info: Students Details Sent
+2018-06-24T14:54:16+05:30 "GET /api/students" 200 1583 - 347.960 ms
+2018-06-24T15:08:33+05:30 - info: Students Details Sent
+2018-06-24T15:08:33+05:30 "GET /api/students" 304 - - 336.081 ms
+2018-06-24T15:08:44+05:30 - info: Students Details Sent
+2018-06-24T15:08:44+05:30 "GET /api/students" 304 - - 339.289 ms
+2018-06-24T15:23:39+05:30 - info: Students Details Sent
+2018-06-24T15:23:39+05:30 "GET /api/students" 304 - - 343.190 ms
+2018-06-24T15:24:52+05:30 "OPTIONS /api/student/new" 200 4 - 1.463 ms
+2018-06-24T15:24:52+05:30 - info: New Student Registered
+2018-06-24T15:24:52+05:30 "POST /api/student/new" 200 37 - 683.489 ms
+2018-06-24T15:28:39+05:30 - info: Students Details Sent
+2018-06-24T15:28:39+05:30 "GET /api/students" 200 1375 - 339.542 ms
+2018-06-24T15:30:19+05:30 - info: Students Details Sent
+2018-06-24T15:30:19+05:30 "GET /api/students" 304 - - 331.993 ms
+2018-06-24T15:30:24+05:30 - info: Students Details Sent
+2018-06-24T15:30:24+05:30 "GET /api/students" 304 - - 343.743 ms
+2018-06-24T15:31:57+05:30 - info: Students Details Sent
+2018-06-24T15:31:57+05:30 "GET /api/students" 304 - - 540.043 ms
+2018-06-24T15:32:28+05:30 - info: Students Details Sent
+2018-06-24T15:32:28+05:30 "GET /api/students" 304 - - 340.059 ms
+2018-06-24T15:32:35+05:30 - info: Students Details Sent
+2018-06-24T15:32:35+05:30 "GET /api/students" 304 - - 341.539 ms
+2018-06-24T15:32:48+05:30 - info: Students Details Sent
+2018-06-24T15:32:48+05:30 "GET /api/students" 304 - - 339.155 ms
+2018-06-24T15:32:57+05:30 "GET /api/students" - - - - ms
+2018-06-24T15:32:57+05:30 - info: Students Details Sent
+2018-06-24T15:33:00+05:30 - info: Students Details Sent
+2018-06-24T15:33:00+05:30 "GET /api/students" 200 1375 - 339.517 ms
+2018-06-24T15:34:02+05:30 - info: Students Details Sent
+2018-06-24T15:34:02+05:30 "GET /api/students" 304 - - 346.103 ms
+2018-06-24T15:34:39+05:30 - info: Students Details Sent
+2018-06-24T15:34:39+05:30 "GET /api/students" 304 - - 338.869 ms
+2018-06-24T15:35:09+05:30 - info: Students Details Sent
+2018-06-24T15:35:09+05:30 "GET /api/students" 304 - - 358.284 ms
+2018-06-24T15:36:15+05:30 - info: Students Details Sent
+2018-06-24T15:36:15+05:30 "GET /api/students" 304 - - 340.533 ms
+2018-06-24T15:36:21+05:30 - info: Students Details Sent
+2018-06-24T15:36:21+05:30 "GET /api/students" 304 - - 318.276 ms
+2018-06-24T15:37:10+05:30 - info: Students Details Sent
+2018-06-24T15:37:11+05:30 "GET /api/students" 304 - - 355.179 ms
+2018-06-24T15:37:15+05:30 - info: Students Details Sent
+2018-06-24T15:37:15+05:30 "GET /api/students" 304 - - 314.775 ms
+2018-06-24T15:37:28+05:30 - info: Students Details Sent
+2018-06-24T15:37:28+05:30 "GET /api/students" 304 - - 346.917 ms
+2018-06-24T15:40:00+05:30 - info: Students Details Sent
+2018-06-24T15:40:00+05:30 "GET /api/students" 304 - - 323.492 ms
+2018-06-24T15:40:06+05:30 - info: Students Details Sent
+2018-06-24T15:40:06+05:30 "GET /api/students" 304 - - 341.720 ms
+2018-06-24T15:53:52+05:30 - info: Successfully Connected to the Database
+2018-06-24T15:54:53+05:30 "OPTIONS /api/student/new" 200 4 - 4.717 ms
+2018-06-24T15:54:54+05:30 - info: New Student Registered
+2018-06-24T15:54:54+05:30 "POST /api/student/new" 200 37 - 847.616 ms
+2018-06-24T16:27:03+05:30 - info: Students Details Sent
+2018-06-24T16:27:03+05:30 "GET /api/students" 200 1364 - 544.781 ms
+2018-06-24T16:27:26+05:30 - info: Students Details Sent
+2018-06-24T16:27:26+05:30 "GET /api/students" 304 - - 322.748 ms
+2018-06-24T16:28:42+05:30 "OPTIONS /api/student/new" 200 4 - 0.915 ms
+2018-06-24T16:28:43+05:30 - info: New Student Registered
+2018-06-24T16:28:43+05:30 "POST /api/student/new" 200 37 - 635.103 ms
+2018-06-24T16:28:53+05:30 - info: Students Details Sent
+2018-06-24T16:28:53+05:30 "GET /api/students" 200 1582 - 324.907 ms
+2018-06-24T17:12:25+05:30 - info: Successfully Connected to the Database
+2018-06-24T17:13:36+05:30 - info: Students Details Sent
+2018-06-24T17:13:36+05:30 "GET /api/students" 304 - - 326.426 ms
+2018-06-24T17:53:55+05:30 - info: Students Details Sent
+2018-06-24T17:53:55+05:30 "GET /api/students" 304 - - 581.629 ms
+2018-06-24T17:54:49+05:30 - info: Students Details Sent
+2018-06-24T17:54:49+05:30 "GET /api/students" 304 - - 309.991 ms
+2018-06-24T17:54:58+05:30 - info: Students Details Sent
+2018-06-24T17:54:58+05:30 "GET /api/students" 304 - - 310.858 ms
+2018-06-24T17:55:58+05:30 - info: Students Details Sent
+2018-06-24T17:55:58+05:30 "GET /api/students" 304 - - 320.623 ms
+2018-06-24T18:01:59+05:30 - info: Students Details Sent
+2018-06-24T18:01:59+05:30 "GET /api/students" 304 - - 338.252 ms
+2018-06-24T18:02:03+05:30 - info: Students Details Sent
+2018-06-24T18:02:03+05:30 "GET /api/students" 304 - - 324.662 ms
+2018-06-24T18:02:18+05:30 - info: Students Details Sent
+2018-06-24T18:02:18+05:30 "GET /api/students" 304 - - 328.067 ms
+2018-06-24T18:02:42+05:30 - info: Students Details Sent
+2018-06-24T18:02:42+05:30 "GET /api/students" 304 - - 308.110 ms
+2018-06-24T18:02:59+05:30 - info: Students Details Sent
+2018-06-24T18:02:59+05:30 "GET /api/students" 304 - - 338.280 ms
+2018-06-24T18:02:59+05:30 - info: Students Details Sent
+2018-06-24T18:02:59+05:30 "GET /api/students" 304 - - 310.531 ms
+2018-06-24T18:03:26+05:30 - info: Students Details Sent
+2018-06-24T18:03:26+05:30 "GET /api/students" 304 - - 311.980 ms
+2018-06-24T18:03:31+05:30 - info: Students Details Sent
+2018-06-24T18:03:31+05:30 "GET /api/students" 304 - - 341.698 ms
+2018-06-24T18:04:34+05:30 - info: Companies Details Sent
+2018-06-24T18:04:34+05:30 "GET /api/companies" 200 675 - 334.758 ms
+2018-06-24T18:04:49+05:30 - info: Companies Details Sent
+2018-06-24T18:04:49+05:30 "GET /api/companies" 304 - - 299.669 ms
+2018-06-24T18:05:01+05:30 - info: Students Details Sent
+2018-06-24T18:05:01+05:30 "GET /api/students" 304 - - 337.424 ms
+2018-06-24T18:05:30+05:30 "OPTIONS /api/student/new" 200 4 - 4.026 ms
+2018-06-24T18:07:31+05:30 - info: Students Details Sent
+2018-06-24T18:07:31+05:30 "GET /api/students" 304 - - 317.945 ms
+2018-06-24T18:07:45+05:30 "OPTIONS /api/student/edit/5b2f7963b93b0131d8c75ff0" 200 3 - 0.375 ms
+2018-06-24T18:15:13+05:30 - info: Students Details Sent
+2018-06-24T18:15:13+05:30 "GET /api/students" 304 - - 328.844 ms
+2018-06-24T18:15:49+05:30 - info: Students Details Sent
+2018-06-24T18:15:49+05:30 "GET /api/students" 304 - - 306.535 ms
+2018-06-24T18:15:54+05:30 - info: Students Details Sent
+2018-06-24T18:15:54+05:30 "GET /api/students" 304 - - 329.313 ms
+2018-06-24T18:22:03+05:30 - info: Students Details Sent
+2018-06-24T18:22:03+05:30 "GET /api/students" 304 - - 315.422 ms
+2018-06-24T18:22:22+05:30 - info: Students Details Sent
+2018-06-24T18:22:22+05:30 "GET /api/students" 304 - - 326.731 ms
+2018-06-24T18:22:32+05:30 - info: Students Details Sent
+2018-06-24T18:22:32+05:30 "GET /api/students" 304 - - 306.161 ms
+2018-06-24T18:23:21+05:30 - info: Students Details Sent
+2018-06-24T18:23:21+05:30 "GET /api/students" 304 - - 332.315 ms
+2018-06-24T18:24:26+05:30 "GET /api/students" - - - - ms
+2018-06-24T18:24:27+05:30 - info: Students Details Sent
+2018-06-24T18:24:31+05:30 - info: Students Details Sent
+2018-06-24T18:24:31+05:30 "GET /api/students" 200 1582 - 332.528 ms
+2018-06-24T18:25:20+05:30 - info: Students Details Sent
+2018-06-24T18:25:20+05:30 "GET /api/students" 304 - - 373.751 ms
+2018-06-24T18:26:15+05:30 - info: Students Details Sent
+2018-06-24T18:26:15+05:30 "GET /api/students" 304 - - 300.069 ms
+2018-06-24T18:26:20+05:30 - info: Students Details Sent
+2018-06-24T18:26:20+05:30 "GET /api/students" 304 - - 336.067 ms
+2018-06-24T18:26:48+05:30 - info: Students Details Sent
+2018-06-24T18:26:48+05:30 "GET /api/students" 304 - - 299.896 ms
+2018-06-24T18:47:17+05:30 - info: Students Details Sent
+2018-06-24T18:47:17+05:30 "GET /api/students" 304 - - 373.118 ms
+2018-06-24T18:47:27+05:30 "OPTIONS /api/student/edit/5ae177c0823efe34a829c2d1" 200 3 - 0.370 ms
+2018-06-24T18:53:11+05:30 - info: Students Details Sent
+2018-06-24T18:53:11+05:30 "GET /api/students" 304 - - 315.746 ms
+2018-06-24T20:54:53+05:30 - info: Successfully Connected to the Database
+2018-06-24T20:55:13+05:30 - info: Students Details Sent
+2018-06-24T20:55:13+05:30 "GET /api/students" 304 - - 591.290 ms
+2018-06-24T20:55:29+05:30 "OPTIONS /api/student/edit/5ae35943af380c0c88b58761" 200 3 - 5.801 ms
+2018-06-24T20:55:30+05:30 - info: Details Successfully Edited
+2018-06-24T20:55:30+05:30 "PUT /api/student/edit/5ae35943af380c0c88b58761" 200 234 - 502.160 ms
+2018-06-24T20:56:19+05:30 - info: Students Details Sent
+2018-06-24T20:56:19+05:30 "GET /api/students" 200 1584 - 330.501 ms
+2018-06-24T20:56:27+05:30 - info: Students Details Sent
+2018-06-24T20:56:27+05:30 "GET /api/students" 304 - - 316.292 ms
+2018-06-24T20:57:14+05:30 - info: Students Details Sent
+2018-06-24T20:57:14+05:30 "GET /api/students" 304 - - 325.128 ms
+2018-06-24T20:57:20+05:30 - info: Students Details Sent
+2018-06-24T20:57:20+05:30 "GET /api/students" 304 - - 336.695 ms
+2018-06-24T21:01:52+05:30 - info: Students Details Sent
+2018-06-24T21:01:52+05:30 "GET /api/students" 304 - - 324.905 ms
+2018-06-24T21:06:22+05:30 - info: Students Details Sent
+2018-06-24T21:06:22+05:30 "GET /api/students" 304 - - 346.065 ms
+2018-06-24T21:06:32+05:30 "GET /api/student/remove/5b2f7963b93b0131d8c75ff0" 404 182 - 4.243 ms
+2018-06-24T21:06:32+05:30 "GET /favicon.ico" 404 150 - 0.670 ms
+2018-06-24T21:06:44+05:30 - info: Student Successfully Deleted
+2018-06-24T21:06:44+05:30 "DELETE /api/student/remove/5b2f7963b93b0131d8c75ff0" 200 74 - 338.020 ms
+2018-06-24T21:06:53+05:30 - info: Students Details Sent
+2018-06-24T21:06:53+05:30 "GET /api/students" 200 1366 - 323.281 ms
+2018-06-24T21:11:15+05:30 - info: Successfully Connected to the Database
+2018-06-24T21:11:22+05:30 - info: Students Details Sent
+2018-06-24T21:11:22+05:30 "GET /api/students" 304 - - 339.164 ms
+2018-06-24T21:11:28+05:30 - info: Students Details Sent
+2018-06-24T21:11:28+05:30 "GET /api/students" 304 - - 320.769 ms
+2018-06-24T21:12:44+05:30 "GET /api/student/remove/5b2f7176b93b0131d8c75fef" 404 182 - 4.755 ms
+2018-06-24T21:12:56+05:30 - info: Student Successfully Deleted
+2018-06-24T21:12:56+05:30 "DELETE /api/student/remove/5b2f7176b93b0131d8c75fef" 200 74 - 320.436 ms
+2018-06-24T21:13:07+05:30 - info: Students Details Sent
+2018-06-24T21:13:07+05:30 "GET /api/students" 200 1147 - 318.643 ms
+2018-06-24T21:16:57+05:30 - info: Students Details Sent
+2018-06-24T21:16:57+05:30 "GET /api/students" 304 - - 321.240 ms
+2018-06-24T21:17:28+05:30 - info: Students Details Sent
+2018-06-24T21:17:28+05:30 "GET /api/students" 304 - - 320.092 ms
+2018-06-24T21:17:34+05:30 - info: Students Details Sent
+2018-06-24T21:17:34+05:30 "GET /api/students" 304 - - 318.917 ms
+2018-06-24T21:18:03+05:30 - info: Students Details Sent
+2018-06-24T21:18:03+05:30 "GET /api/students" 304 - - 310.833 ms
+2018-06-24T21:18:25+05:30 - info: Students Details Sent
+2018-06-24T21:18:25+05:30 "GET /api/students" 304 - - 326.489 ms
+2018-06-24T21:18:47+05:30 - info: Students Details Sent
+2018-06-24T21:18:47+05:30 "GET /api/students" 304 - - 314.355 ms
+2018-06-24T21:19:00+05:30 - info: Students Details Sent
+2018-06-24T21:19:00+05:30 "GET /api/students" 304 - - 322.786 ms
+2018-06-24T21:19:26+05:30 - info: Students Details Sent
+2018-06-24T21:19:26+05:30 "GET /api/students" 304 - - 306.219 ms
+2018-06-24T21:20:01+05:30 - info: Students Details Sent
+2018-06-24T21:20:01+05:30 "GET /api/students" 304 - - 315.415 ms
+2018-06-24T21:20:22+05:30 - info: Students Details Sent
+2018-06-24T21:20:22+05:30 "GET /api/students" 304 - - 308.174 ms
+2018-06-24T21:21:15+05:30 "OPTIONS /api/student/edit/5ae177c0823efe34a829c2d1" 200 3 - 2.069 ms
+2018-06-24T21:21:15+05:30 - info: Details Successfully Edited
+2018-06-24T21:21:15+05:30 "PUT /api/student/edit/5ae177c0823efe34a829c2d1" 200 229 - 383.870 ms
+2018-06-24T21:21:25+05:30 - info: Students Details Sent
+2018-06-24T21:21:25+05:30 "GET /api/students" 200 1147 - 308.094 ms
+2018-06-24T21:22:08+05:30 - info: Companies Details Sent
+2018-06-24T21:22:08+05:30 "GET /api/companies" 304 - - 319.919 ms
+2018-06-24T21:23:26+05:30 - info: Students Details Sent
+2018-06-24T21:23:26+05:30 "GET /api/students" 304 - - 310.901 ms
+2018-06-24T21:30:00+05:30 - info: Students Details Sent
+2018-06-24T21:30:00+05:30 "GET /api/students" 304 - - 317.176 ms
+2018-06-24T21:30:00+05:30 - info: Students Details Sent
+2018-06-24T21:30:00+05:30 "GET /api/students" 304 - - 308.121 ms
+2018-06-24T21:30:07+05:30 - info: Students Details Sent
+2018-06-24T21:30:07+05:30 "GET /api/students" 304 - - 317.920 ms
+2018-06-24T21:30:12+05:30 - info: Students Details Sent
+2018-06-24T21:30:12+05:30 "GET /api/students" 304 - - 311.932 ms
+2018-06-24T21:39:05+05:30 - info: Successfully Connected to the Database
+2018-06-24T21:56:08+05:30 - info: Successfully Connected to the Database
+2018-06-24T22:02:13+05:30 - info: Students Details Sent
+2018-06-24T22:02:13+05:30 "GET /api/students" 304 - - 335.367 ms
+2018-06-24T22:02:18+05:30 "OPTIONS /api/student/5ae177c0823efe34a829c2d1" 200 4 - 1.890 ms
+2018-06-24T22:02:18+05:30 "POST /api/student/5ae177c0823efe34a829c2d1" 200 229 - 352.986 ms
+2018-06-24T22:26:16+05:30 - info: Successfully Connected to the Database
+2018-06-24T22:33:00+05:30 - info: Students Details Sent
+2018-06-24T22:33:00+05:30 "GET /api/students" 200 1147 - 364.536 ms
+2018-06-24T22:33:07+05:30 "OPTIONS /api/student/remove/5b2e02c1e0a95d227873cc76" 200 11 - 4.539 ms
+2018-06-24T22:33:09+05:30 - info: Student Successfully Deleted
+2018-06-24T22:33:09+05:30 "POST /api/student/remove/5b2e02c1e0a95d227873cc76" 200 74 - 2012.177 ms
+2018-06-24T22:33:09+05:30 - info: Students Details Sent
+2018-06-24T22:33:09+05:30 "GET /api/students" 200 918 - 336.369 ms
+2018-06-24T22:48:09+05:30 - info: Students Details Sent
+2018-06-24T22:48:09+05:30 "GET /api/students" 304 - - 335.228 ms
+2018-06-24T22:48:51+05:30 - info: Students Details Sent
+2018-06-24T22:48:51+05:30 "GET /api/students" 304 - - 369.880 ms
+2018-06-24T22:49:20+05:30 - info: Companies Details Sent
+2018-06-24T22:49:20+05:30 "GET /api/companies" 200 675 - 346.838 ms
+2018-06-24T22:52:31+05:30 "GET /api/students" - - - - ms
+2018-06-24T22:52:31+05:30 - info: Students Details Sent
+2018-06-24T22:52:36+05:30 - info: Companies Details Sent
+2018-06-24T22:52:36+05:30 "GET /api/companies" 304 - - 344.250 ms
+2018-06-24T22:53:33+05:30 - info: Students Details Sent
+2018-06-24T22:53:33+05:30 "GET /api/students" 200 918 - 338.437 ms
+2018-06-24T22:54:58+05:30 - info: Companies Details Sent
+2018-06-24T22:54:58+05:30 "GET /api/companies" 304 - - 338.739 ms
+2018-06-24T22:55:51+05:30 - info: Companies Details Sent
+2018-06-24T22:55:51+05:30 "GET /api/companies" 304 - - 330.092 ms
+2018-06-24T22:57:22+05:30 - info: Students Details Sent
+2018-06-24T22:57:22+05:30 "GET /api/students" 304 - - 328.374 ms
+2018-06-24T22:57:39+05:30 - info: Companies Details Sent
+2018-06-24T22:57:39+05:30 "GET /api/companies" 304 - - 326.007 ms
+2018-06-24T23:13:32+05:30 - info: Companies Details Sent
+2018-06-24T23:13:32+05:30 "GET /api/companies" 304 - - 332.933 ms
+2018-06-24T23:14:22+05:30 - info: Companies Details Sent
+2018-06-24T23:14:22+05:30 "GET /api/companies" 304 - - 331.929 ms
+2018-06-24T23:22:00+05:30 "OPTIONS /api/company/register" 200 4 - 1.392 ms
+2018-06-24T23:22:00+05:30 "POST /api/company/register" 500 1707 - 2.986 ms
+2018-06-24T23:23:05+05:30 "OPTIONS /api/company/register" 200 4 - 1.014 ms
+2018-06-24T23:23:05+05:30 "POST /api/company/register" 500 1707 - 1.582 ms
+2018-06-24T23:23:45+05:30 - info: Successfully Connected to the Database
+2018-06-24T23:23:56+05:30 - info: Companies Details Sent
+2018-06-24T23:23:56+05:30 "GET /api/companies" 304 - - 345.732 ms
+2018-06-24T23:24:28+05:30 "OPTIONS /api/company/register" 200 4 - 2.564 ms
+2018-06-24T23:24:28+05:30 "POST /api/company/register" 406 27 - 56.742 ms
+2018-06-24T23:24:36+05:30 - info: Companies Details Sent
+2018-06-24T23:24:36+05:30 "GET /api/companies" 304 - - 321.997 ms
+2018-06-24T23:28:40+05:30 - info: Successfully Connected to the Database
+2018-06-24T23:29:41+05:30 "OPTIONS /api/company/register" 200 4 - 8.655 ms
+2018-06-24T23:29:42+05:30 - info: Company Successfully Registered
+2018-06-24T23:29:42+05:30 "POST /api/company/register" 200 23 - 762.142 ms
+2018-06-24T23:29:47+05:30 - info: Companies Details Sent
+2018-06-24T23:29:47+05:30 "GET /api/companies" 200 840 - 348.577 ms
+2018-06-24T23:31:58+05:30 "OPTIONS /api/company/register" 200 4 - 1.402 ms
+2018-06-24T23:31:59+05:30 - info: Company Successfully Registered
+2018-06-24T23:31:59+05:30 "POST /api/company/register" 200 23 - 679.442 ms
+2018-06-24T23:32:03+05:30 - info: Companies Details Sent
+2018-06-24T23:32:03+05:30 "GET /api/companies" 200 1005 - 339.483 ms
+2018-06-24T23:34:01+05:30 - info: Companies Details Sent
+2018-06-24T23:34:01+05:30 "GET /api/companies" 200 675 - 350.822 ms
+2018-06-24T23:35:26+05:30 - info: Successfully Connected to the Database
+2018-06-24T23:36:15+05:30 "OPTIONS /api/company/register" 200 4 - 5.066 ms
+2018-06-24T23:36:16+05:30 - info: Company Successfully Registered
+2018-06-24T23:36:16+05:30 "POST /api/company/register" 200 23 - 760.469 ms
+2018-06-24T23:36:42+05:30 - info: Successfully Connected to the Database
+2018-06-24T23:37:00+05:30 - info: Companies Details Sent
+2018-06-24T23:37:00+05:30 "GET /api/companies" 304 - - 371.810 ms
+2018-06-24T23:38:45+05:30 "OPTIONS /api/company/register" 200 4 - 5.773 ms
+2018-06-24T23:38:46+05:30 - info: Company Successfully Registered
+2018-06-24T23:38:46+05:30 "POST /api/company/register" 200 23 - 751.285 ms
+2018-06-24T23:38:48+05:30 - info: Companies Details Sent
+2018-06-24T23:38:48+05:30 "GET /api/companies" 200 867 - 326.285 ms
+2018-06-24T23:49:20+05:30 - info: Students Details Sent
+2018-06-24T23:49:20+05:30 "GET /api/students" 304 - - 329.294 ms
+2018-06-25T00:37:58+05:30 - info: Students Details Sent
+2018-06-25T00:37:58+05:30 "GET /api/students" 304 - - 308.423 ms
+2018-06-25T00:38:52+05:30 - info: Students Details Sent
+2018-06-25T00:38:52+05:30 "GET /api/students" 304 - - 324.325 ms
+2018-06-25T00:38:59+05:30 - info: Students Details Sent
+2018-06-25T00:38:59+05:30 "GET /api/students" 304 - - 315.727 ms
+2018-06-25T00:41:39+05:30 - info: Successfully Connected to the Database
+2018-06-25T00:42:08+05:30 - info: Companies Details Sent
+2018-06-25T00:42:08+05:30 "GET /api/companies" 304 - - 350.432 ms
+2018-06-25T00:43:08+05:30 - info: Companies Details Sent
+2018-06-25T00:43:08+05:30 "GET /api/companies" 304 - - 360.933 ms
+2018-06-25T00:43:11+05:30 "OPTIONS /api/company/remove/5b2fde2e13fee023e419ecfe" 200 11 - 5.642 ms
+2018-06-25T00:43:12+05:30 - info: Company Successfully UN-Registered
+2018-06-25T00:43:12+05:30 "POST /api/company/remove/5b2fde2e13fee023e419ecfe" 200 74 - 369.217 ms
+2018-06-25T00:43:15+05:30 - info: Companies Details Sent
+2018-06-25T00:43:15+05:30 "GET /api/companies" 200 675 - 330.058 ms
+2018-06-25T00:43:55+05:30 "OPTIONS /api/company/register" 200 4 - 0.791 ms
+2018-06-25T00:43:56+05:30 - info: Company Successfully Registered
+2018-06-25T00:43:56+05:30 "POST /api/company/register" 200 23 - 728.753 ms
+2018-06-25T00:43:57+05:30 - info: Companies Details Sent
+2018-06-25T00:43:57+05:30 "GET /api/companies" 200 848 - 481.546 ms
+2018-06-25T00:44:20+05:30 - info: Companies Details Sent
+2018-06-25T00:44:20+05:30 "GET /api/companies" 304 - - 330.042 ms
+2018-06-25T00:44:27+05:30 - info: Companies Details Sent
+2018-06-25T00:44:27+05:30 "GET /api/companies" 304 - - 331.706 ms
+2018-06-25T00:44:31+05:30 - info: Companies Details Sent
+2018-06-25T00:44:31+05:30 "GET /api/companies" 304 - - 333.112 ms
+2018-06-25T00:44:33+05:30 "OPTIONS /api/company/remove/5b2fed74a24e83176c13b75e" 200 11 - 1.422 ms
+2018-06-25T00:44:33+05:30 - info: Company Successfully UN-Registered
+2018-06-25T00:44:33+05:30 "DELETE /api/company/remove/5b2fed74a24e83176c13b75e" 200 74 - 336.154 ms
+2018-06-25T00:44:35+05:30 - info: Companies Details Sent
+2018-06-25T00:44:35+05:30 "GET /api/companies" 200 675 - 324.471 ms
+2018-06-25T01:12:54+05:30 - info: Companies Details Sent
+2018-06-25T01:12:54+05:30 "GET /api/companies" 304 - - 329.654 ms
+2018-06-25T01:13:03+05:30 - info: Students Details Sent
+2018-06-25T01:13:03+05:30 "GET /api/students" 304 - - 334.098 ms
+2018-06-25T01:13:06+05:30 "OPTIONS /api/student/remove/5ae48bfae9e16723bcc01352" 200 11 - 0.631 ms
+2018-06-25T01:13:06+05:30 - info: Student Successfully Deleted
+2018-06-25T01:13:06+05:30 "POST /api/student/remove/5ae48bfae9e16723bcc01352" 200 74 - 330.516 ms
+2018-06-25T01:13:08+05:30 - info: Students Details Sent
+2018-06-25T01:13:08+05:30 "GET /api/students" 200 684 - 339.133 ms
+2018-06-25T01:16:04+05:30 - info: Students Details Sent
+2018-06-25T01:16:04+05:30 "GET /api/students" 304 - - 333.675 ms
+2018-06-25T01:16:26+05:30 - info: Students Details Sent
+2018-06-25T01:16:26+05:30 "GET /api/students" 304 - - 332.005 ms
+2018-06-25T01:28:04+05:30 - info: Students Details Sent
+2018-06-25T01:28:04+05:30 "GET /api/students" 304 - - 333.391 ms
+2018-06-25T01:31:16+05:30 - info: Students Details Sent
+2018-06-25T01:31:16+05:30 "GET /api/students" 304 - - 334.591 ms
+2018-06-25T01:34:18+05:30 - info: Students Details Sent
+2018-06-25T01:34:18+05:30 "GET /api/students" 304 - - 346.318 ms
+2018-06-25T01:34:57+05:30 - info: Students Details Sent
+2018-06-25T01:34:57+05:30 "GET /api/students" 304 - - 343.753 ms
+2018-06-25T01:35:30+05:30 - info: Students Details Sent
+2018-06-25T01:35:30+05:30 "GET /api/students" 304 - - 342.488 ms
+2018-06-25T13:43:28+05:30 - info: Successfully Connected to the Database
+2018-06-25T13:44:07+05:30 - info: Students Details Sent
+2018-06-25T13:44:07+05:30 "GET /api/students" 304 - - 378.894 ms
+2018-06-25T13:44:34+05:30 - info: Students Details Sent
+2018-06-25T13:44:34+05:30 "GET /api/students" 304 - - 329.099 ms
+2018-06-25T13:45:07+05:30 - info: Students Details Sent
+2018-06-25T13:45:07+05:30 "GET /api/students" 304 - - 334.257 ms
+2018-06-25T13:45:11+05:30 - info: Companies Details Sent
+2018-06-25T13:45:11+05:30 "GET /api/companies" 304 - - 312.747 ms
+2018-06-25T13:45:46+05:30 - info: Students Details Sent
+2018-06-25T13:45:46+05:30 "GET /api/students" 304 - - 339.787 ms
+2018-06-25T13:45:50+05:30 - info: Companies Details Sent
+2018-06-25T13:45:50+05:30 "GET /api/companies" 304 - - 341.849 ms
+2018-06-25T13:46:02+05:30 - info: Companies Details Sent
+2018-06-25T13:46:02+05:30 "GET /api/companies" 304 - - 572.969 ms
+2018-06-25T13:54:11+05:30 - info: Companies Details Sent
+2018-06-25T13:54:11+05:30 "GET /api/companies" 304 - - 316.831 ms
+2018-06-25T13:54:59+05:30 "OPTIONS /api/company/register" 200 4 - 4.865 ms
+2018-06-25T13:55:00+05:30 - info: Company Successfully Registered
+2018-06-25T13:55:00+05:30 "POST /api/company/register" 200 23 - 780.420 ms
+2018-06-25T13:55:02+05:30 - info: Students Details Sent
+2018-06-25T13:55:02+05:30 "GET /api/students" 304 - - 351.684 ms
+2018-06-25T13:55:06+05:30 - info: Companies Details Sent
+2018-06-25T13:55:06+05:30 "GET /api/companies" 200 875 - 310.592 ms
+2018-06-25T13:55:22+05:30 - info: Companies Details Sent
+2018-06-25T13:55:22+05:30 "GET /api/companies" 304 - - 347.861 ms
+2018-06-25T13:56:12+05:30 - info: Students Details Sent
+2018-06-25T13:56:12+05:30 "GET /api/students" 304 - - 311.428 ms
+2018-06-25T13:56:18+05:30 - info: Companies Details Sent
+2018-06-25T13:56:18+05:30 "GET /api/companies" 304 - - 318.595 ms
+2018-06-25T13:58:11+05:30 - info: Companies Details Sent
+2018-06-25T13:58:11+05:30 "GET /api/companies" 304 - - 312.898 ms
+2018-06-25T13:58:16+05:30 - info: Students Details Sent
+2018-06-25T13:58:16+05:30 "GET /api/students" 304 - - 390.127 ms
+2018-06-25T13:58:20+05:30 - info: Companies Details Sent
+2018-06-25T13:58:20+05:30 "GET /api/companies" 304 - - 300.410 ms
+2018-06-25T13:58:42+05:30 - info: Companies Details Sent
+2018-06-25T13:58:42+05:30 "GET /api/companies" 304 - - 356.945 ms
+2018-06-25T13:59:04+05:30 - info: Students Details Sent
+2018-06-25T13:59:04+05:30 "GET /api/students" 304 - - 306.152 ms
+2018-06-25T13:59:10+05:30 - info: Companies Details Sent
+2018-06-25T13:59:10+05:30 "GET /api/companies" 304 - - 379.241 ms
+2018-06-25T14:00:01+05:30 - info: Companies Details Sent
+2018-06-25T14:00:01+05:30 "GET /api/companies" 304 - - 309.986 ms
+2018-06-25T14:00:09+05:30 - info: Students Details Sent
+2018-06-25T14:00:09+05:30 "GET /api/students" 304 - - 403.956 ms
+2018-06-25T14:00:12+05:30 - info: Companies Details Sent
+2018-06-25T14:00:12+05:30 "GET /api/companies" 304 - - 370.101 ms
+2018-06-25T15:12:59+05:30 - info: Successfully Connected to the Database
+2018-06-25T15:13:32+05:30 - info: Students Details Sent
+2018-06-25T15:13:32+05:30 "GET /api/students" 304 - - 350.144 ms
+2018-06-25T15:13:33+05:30 - info: Students Details Sent
+2018-06-25T15:13:33+05:30 "GET /api/students" 304 - - 374.625 ms
+2018-06-25T15:13:33+05:30 - info: Students Details Sent
+2018-06-25T15:13:33+05:30 "GET /api/students" 304 - - 308.553 ms
+2018-06-25T15:13:34+05:30 - info: Students Details Sent
+2018-06-25T15:13:34+05:30 "GET /api/students" 304 - - 336.041 ms
+2018-06-25T15:13:44+05:30 - info: Students Details Sent
+2018-06-25T15:13:44+05:30 "GET /api/students" 304 - - 329.752 ms
+2018-06-25T15:13:48+05:30 - info: Companies Details Sent
+2018-06-25T15:13:48+05:30 "GET /api/companies" 304 - - 325.345 ms
+2018-06-25T15:13:49+05:30 "OPTIONS /api/student/5ae177c0823efe34a829c2d15ae35943af380c0c88b58761/register?companyId=5ae17828823efe34a829c2d2" 200 4 - 0.994 ms
+2018-06-25T15:14:36+05:30 - info: Successfully Connected to the Database
+2018-06-25T15:14:39+05:30 - info: Students Details Sent
+2018-06-25T15:14:39+05:30 "GET /api/students" 304 - - 458.988 ms
+2018-06-25T15:14:43+05:30 - info: Companies Details Sent
+2018-06-25T15:14:43+05:30 "GET /api/companies" 304 - - 345.465 ms
+2018-06-25T15:14:44+05:30 "OPTIONS /api/student/5ae177c0823efe34a829c2d15ae35943af380c0c88b58761/register?companyId=5ae17828823efe34a829c2d2" 200 4 - 2.805 ms
+2018-06-25T15:15:59+05:30 - info: Successfully Connected to the Database
+2018-06-25T15:16:04+05:30 - info: Students Details Sent
+2018-06-25T15:16:04+05:30 "GET /api/students" 304 - - 423.292 ms
+2018-06-25T15:16:08+05:30 - info: Companies Details Sent
+2018-06-25T15:16:08+05:30 "GET /api/companies" 304 - - 331.253 ms
+2018-06-25T15:16:09+05:30 "OPTIONS /api/student/5ae177c0823efe34a829c2d1/register?companyId=5ae17828823efe34a829c2d2" 200 4 - 5.385 ms
+2018-06-25T15:16:10+05:30 - info: Companies Details Sent
+2018-06-25T15:16:10+05:30 "GET /api/companies" 304 - - 760.775 ms
+2018-06-25T15:16:13+05:30 - info: Student Successfully Registered for Company
+2018-06-25T15:16:13+05:30 "POST /api/student/5ae177c0823efe34a829c2d1/register?companyId=5ae17828823efe34a829c2d2" 200 38 - 3108.071 ms
+2018-06-25T15:17:14+05:30 - info: Companies Details Sent
+2018-06-25T15:17:14+05:30 "GET /api/companies" 200 1105 - 324.409 ms
+2018-06-25T15:19:22+05:30 "OPTIONS /api/student/5ae177c0823efe34a829c2d1/register?companyId=5b30a6db474e482facf335a1" 200 4 - 1.252 ms
+2018-06-25T15:19:23+05:30 - info: Companies Details Sent
+2018-06-25T15:19:23+05:30 "GET /api/companies" 304 - - 447.712 ms
+2018-06-25T15:19:23+05:30 - info: Student Successfully Registered for Company
+2018-06-25T15:19:23+05:30 "POST /api/student/5ae177c0823efe34a829c2d1/register?companyId=5b30a6db474e482facf335a1" 200 38 - 1186.170 ms
+2018-06-25T15:19:27+05:30 - info: Companies Details Sent
+2018-06-25T15:19:27+05:30 "GET /api/companies" 200 1334 - 344.810 ms
+2018-06-25T15:21:56+05:30 "OPTIONS /api/student/5ae177c0823efe34a829c2d1/unregister?companyId=5ae17828823efe34a829c2d2" 200 6 - 1.140 ms
+2018-06-25T15:21:57+05:30 - info: Companies Details Sent
+2018-06-25T15:21:57+05:30 "GET /api/companies" 304 - - 388.201 ms
+2018-06-25T15:21:57+05:30 - info: Student Successfully Unregistered for Company
+2018-06-25T15:21:57+05:30 "DELETE /api/student/5ae177c0823efe34a829c2d1/unregister?companyId=5ae17828823efe34a829c2d2" 200 41 - 780.604 ms
+2018-06-25T15:22:01+05:30 - info: Companies Details Sent
+2018-06-25T15:22:01+05:30 "GET /api/companies" 200 1104 - 334.459 ms
+2018-06-25T15:22:28+05:30 - info: Students Details Sent
+2018-06-25T15:22:28+05:30 "GET /api/students" 304 - - 343.712 ms
+2018-06-25T15:49:37+05:30 - info: Companies Details Sent
+2018-06-25T15:49:37+05:30 "GET /api/companies" 304 - - 453.347 ms
+2018-06-25T15:49:40+05:30 "OPTIONS /api/student/5ae177c0823efe34a829c2d1/unregister?companyId=5b30a6db474e482facf335a1" 200 6 - 1.012 ms
+2018-06-25T15:49:40+05:30 - info: Companies Details Sent
+2018-06-25T15:49:40+05:30 "GET /api/companies" 304 - - 353.655 ms
+2018-06-25T15:49:40+05:30 - info: Student Successfully Unregistered for Company
+2018-06-25T15:49:40+05:30 "DELETE /api/student/5ae177c0823efe34a829c2d1/unregister?companyId=5b30a6db474e482facf335a1" 200 41 - 673.014 ms
+2018-06-25T15:49:43+05:30 - info: Companies Details Sent
+2018-06-25T15:49:43+05:30 "GET /api/companies" 200 875 - 339.496 ms
